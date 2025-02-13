@@ -4,11 +4,6 @@
 
 - GNOME Terminal - Default terminal for GNOME
 - Terminal - Default terminal for macOS
-- GNU Screen - Terminal multiplexer
-- guake - Drop down terminal for GNOME
-- konsole - Default terminal for KDE
-- xfce4-terminal - Default terminal for Xfce
-- xterm - Standard terminal for X11
 - Termux - Terminal emulator for Android
 
 ## Command Prompt
